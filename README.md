@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:10B981,100:A7F3D0&height=210&section=header&text=SMART%20EXPENSE%20TRACKER&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Track%20Spending%20and%20Categories&descAlignY=60&descSize=15" width="100%" />
+
+</div>
+
+---
+
 📁 Smart Expense Tracker (Python) — README
 🪙 Project Description
 
